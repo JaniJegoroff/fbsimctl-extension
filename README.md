@@ -1,3 +1,8 @@
+[![Gem Version](https://badge.fury.io/rb/fbsimctl-extension.svg)](http://badge.fury.io/rb/fbsimctl-extension)
+[![Build Status](https://travis-ci.org/JaniJegoroff/fbsimctl-extension.svg)](https://travis-ci.org/JaniJegoroff/fbsimctl-extension)
+[![Code Climate](https://codeclimate.com/github/JaniJegoroff/fbsimctl-extension/badges/gpa.svg)](https://codeclimate.com/github/JaniJegoroff/fbsimctl-extension)
+[![Dependency Status](https://gemnasium.com/JaniJegoroff/fbsimctl-extension.svg)](https://gemnasium.com/JaniJegoroff/fbsimctl-extension)
+
 fbsimctl-extension
 ==========
 
